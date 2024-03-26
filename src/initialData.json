@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Apples",
+      "quantity": 100,
+      "purchasingPrice": 0.30,
+      "sellingPrice": 0.50
+    },
+    {
+      "id": 2,
+      "name": "Oranges",
+      "quantity": 80,
+      "purchasingPrice": 0.35,
+      "sellingPrice": 0.55
+    },
+    {
+      "id": 3,
+      "name": "Bananas",
+      "quantity": 150,
+      "purchasingPrice": 0.25,
+      "sellingPrice": 0.45
+    },
+    {
+      "id": 4,
+      "name": "Strawberries",
+      "quantity": 50,
+      "purchasingPrice": 0.75,
+      "sellingPrice": 1.00
+    },
+    {
+      "id": 5,
+      "name": "Grapes",
+      "quantity": 90,
+      "purchasingPrice": 0.40,
+      "sellingPrice": 0.60
+    },
+    {
+      "id": 6,
+      "name": "Lemons",
+      "quantity": 120,
+      "purchasingPrice": 0.20,
+      "sellingPrice": 0.40
+    },
+    {
+      "id": 7,
+      "name": "Limes",
+      "quantity": 110,
+      "purchasingPrice": 0.15,
+      "sellingPrice": 0.35
+    },
+    {
+      "id": 8,
+      "name": "Cherries",
+      "quantity": 70,
+      "purchasingPrice": 0.90,
+      "sellingPrice": 1.20
+    },
+    {
+      "id": 9,
+      "name": "Peaches",
+      "quantity": 60,
+      "purchasingPrice": 0.50,
+      "sellingPrice": 0.70
+    },
+    {
+      "id": 10,
+      "name": "Plums",
+      "quantity": 40,
+      "purchasingPrice": 0.45,
+      "sellingPrice": 0.65
+    }
+  ]
+  
